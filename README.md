@@ -1,9 +1,6 @@
-# my-template
-A Template Repository With Access to Basic Commands
+# AdvERSEM: Adversarial Robustness Testing and Training of LLM-based Groundedness Evaluators via Semantic Structure Manipulation
 
-```ssh
-conda create -n my-env python=3.10.0
-```
+The paper is available [here](https://github.com/emory-irlab/adversem/blob/main/adversem_sem_2025.pdf).
 
 ```bib
 @article{dhole2025adverse,
